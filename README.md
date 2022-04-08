@@ -3,7 +3,6 @@
 - 👀 I’m interested in 💻Data Science and ⚽football
 - 🌱 I’m currently learning Python, HTML, CSS & JavaScript
 
-# Language knowledge
 ### Polish C2
 ### English B2
 ### German A2
