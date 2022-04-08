@@ -1,6 +1,6 @@
 # About me
 - 👋 Hi, I’m @stepienKacper
-- 👀 I’m interested in 💻programming and ⚽🦶football
+- 👀 I’m interested in 💻programming and ⚽football
 - 🌱 I’m currently learning Python, HTML, CSS & JavaScript
 
 # Language knowledge
