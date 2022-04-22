@@ -1,12 +1,12 @@
-# About me
-- 👋 Hi, I’m @stepienKacper
-- 👀 I’m interested in 💻Data Science and ⚽football
-- 🌱 I’m currently learning Python, HTML, CSS & JavaScript
+### Hi there 👋, jestem Kacper
+Mam 17 lat i w przyszłości chcę pracować w Data Science
 
-### Polish C2
-### English B2
-### German A2
-<!---
-stepienKacper/stepienKacper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning Python 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/stepienKacper)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepienKacper)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=stepienKacper&show_icons=true)  
+
